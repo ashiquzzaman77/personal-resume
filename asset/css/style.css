@@ -6,7 +6,9 @@
     --transition: all 0.5s;
     --brand-color: #146C94;
     --dark: #040b14;
-    --background: #146C94;
+    --background: radial-gradient(circle, #023154, #4e8cbf);
+
+
 }
 
 a {
